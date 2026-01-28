@@ -12,7 +12,7 @@ We chose the name "AAE5303_Team" because it directly reflects our course code (A
 - **Student ID:** 25075125G
 - **Name:** Zhong Ziyi
 - **Brief Introduction:** John is passionate about software engineering and has strong experience in full-stack development. He specializes in backend architecture and database design.
-- **(individual) Assignment 1:** https://github.com/yourname/assignment1
+- **(individual) Assignment 1:** [https://github.com/yourname/assignment1](https://github.com/everyone-moon/PolyU-AAE5303-assignment-1-template/blob/main/README.md)
 - **(individual) Assignment 2:** https://github.com/yourname/assignment2
 
 ### Member 2
