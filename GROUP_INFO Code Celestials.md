@@ -1,7 +1,7 @@
-# Code Celestials 🎉
+# Mr.Coooode 🎉
 
 ## Why This Name?
-[We are Code Celestials — a visionary trio on a mission to map the uncharted realms of technology. Through clean code, creative algorithms, and cosmic curiosity, we build solutions that are both groundbreaking and graceful. For us, programming is about exploring infinite possibilities.]
+[Mr.Coooode is able to finish the group work]
 
 
 ### Member 1
